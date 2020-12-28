@@ -1,0 +1,19 @@
+{
+  "name": "fontawesome",
+  "version": "5.15.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterLS/fontawesome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeterLS/fontawesome/issues"
+  },
+  "homepage": "https://github.com/PeterLS/fontawesome#readme"
+}
